@@ -5,9 +5,9 @@
 <body style="background-color:#F5F5F5; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
 
 <div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; height:100px; ">
-<h3 style="margin-left:300px; ">______________________________________</h3>
+<h3 style="margin-left:300px; ">_______________________________________________________________________________________</h3>
 </div>
-<div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff;">
+<div style="position: fixed; margin-top:-122px; margin-left:-12px; background-color:#fff;">
 
 <img width="100" src="https://user-images.githubusercontent.com/88801293/129099967-d297cdb9-3084-408d-a7f2-2b017d135712.jpg">
 
