@@ -5,7 +5,7 @@
 <body style="background-color:#F5F5F5; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
 
 <div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; height:100px; ">
-<h3 style="margin-left:300px; ">_____________________</h3>
+<h3 style="margin-left:300px; ">______________________________________</h3>
 </div>
 <div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff;">
 
