@@ -33,20 +33,18 @@
 <a href="https://blogoxd.github.io" style="color:#fff; text-decoration:none; box-shadow:0px 20px 4px; margin-left:px; ">
 
 <center>
-<h2 style="background-color:#0eba00; width:250px; color:fff;  border-radius:4px; " >
+<a href="#" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:260px; height:45px; ">
 ساخت وبسایت
-</h2>
-</center>
-</a>
-<center>
-<a href="xc.html" style="color:#fff; text-decoration:none; box-shadow:0px 20px 4px; margin-left:px; ">
 
-<center>
-<h2 style="background-color:#0eba00; width:250px; color:fff;  border-radius:4px; margin-left:-px; margin-top:-px;" >
-تماس با ما 
-</h2>
-</center>
 </a>
+<br>
+<br>
+
+<a href="xc.html" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:260px; height:45px; ">
+تماس با ما 
+</a>
+</center>
+
 
 <div>
 
@@ -102,7 +100,7 @@ blogoxd
 </div>
 
 
-<div style="margin-left:50px; margin-top:-220px; text-align: left;">
+<div style="margin-left:19px; margin-top:-220px; text-align: left;">
 <br>
 <h2>نمونه کار ها</h2>
 <a href="#" style="color:#000; text-align: right; text-decoration:none;text-align: left;">
