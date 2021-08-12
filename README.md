@@ -2,7 +2,7 @@
 
 <html>
 
-<body style="background-color:#F5F5F5; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
+<body style="background-color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
 
 <div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; height:110px; ">
 <h3 style="margin-left:300px; ">_______________________________________________________________________________________</h3>
