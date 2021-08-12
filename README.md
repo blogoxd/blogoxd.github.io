@@ -81,7 +81,7 @@ blogoxd
 </div>
 <br>
 <br>
-
+<center>
 <div style="margin-left:-19px; ">
 <h2>گزینه ها </h2>
 <a href="#" style="color:#000; text-align: right; text-decoration:none;">
@@ -124,5 +124,5 @@ blogoxd
 
 </div>
 
-
+</center>
 
