@@ -82,7 +82,7 @@ blogoxd
 <br>
 <br>
 <center>
-<div style="margin-left:-19px; ">
+<div style="margin-left:-29px; ">
 <h2>گزینه ها </h2>
 <a href="#" style="color:#000; text-align: right; text-decoration:none;">
 ساخت وبسایت 
@@ -103,7 +103,7 @@ blogoxd
 </div>
 
 
-<div style="margin-left:19px; margin-top:-220px; margin-left:50px;">
+<div style="margin-left:19px; margin-top:-220px; margin-left:40px;">
 <br>
 <h2>نمونه کار ها</h2>
 <a href="#" style="color:#000; text-align: right; text-decoration:none;text-align: left;">
