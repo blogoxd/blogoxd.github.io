@@ -33,18 +33,18 @@
 <a href="https://blogoxd.github.io" style="color:#fff; text-decoration:none; box-shadow:0px 20px 4px; margin-left:px; ">
 
 <center>
-<h3 style="background-color:#0eba00; width:200px; color:fff;  border-radius:2px; " >
+<h2 style="background-color:#0eba00; width:250px; color:fff;  border-radius:4px; " >
 ساخت وبسایت
-</h3>
+</h2>
 </center>
 </a>
 <center>
 <a href="xc.html" style="color:#fff; text-decoration:none; box-shadow:0px 20px 4px; margin-left:px; ">
-<br>
+
 <center>
-<h3 style="background-color:#0eba00; width:200px; color:fff;  border-radius:2px; margin-left:-px; margin-top:-px;" >
+<h2 style="background-color:#0eba00; width:250px; color:fff;  border-radius:4px; margin-left:-px; margin-top:-px;" >
 تماس با ما 
-</h3>
+</h2>
 </center>
 </a>
 
