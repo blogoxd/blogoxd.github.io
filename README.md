@@ -33,14 +33,14 @@
 <a href="https://blogoxd.github.io" style="color:#fff; text-decoration:none; box-shadow:0px 20px 4px; margin-left:px; ">
 
 <center>
-<a href="#" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:260px; height:45px; ">
+<a href="#" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:300px; height:45px; ">
 ساخت وبسایت
 
 </a>
 <br>
 <br>
 
-<a href="xc.html" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:260px; height:45px; ">
+<a href="xc.html" style="background-color:#0eba00; color:#fff; border-radius:4px; text-decoration:none;font-size:34px; display: inline-block; width:300px; height:45px; ">
 تماس با ما 
 </a>
 </center>
@@ -71,6 +71,8 @@
 
 <br>
 <br>
+</div>
+
 
 <div style="color:#000; margin-left:50px; color:#000;text-align: left;">
 <a href="https://blogoxd.github.io" style="color:#000; text-decoration:none; margin-left:50px; font-size:27px;">
@@ -81,20 +83,20 @@ blogoxd
 </div>
 <br>
 <br>
-<center>
-<div style="margin-left:-39px; ">
-<h2>گزینه ها </h2>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+
+<div style="margin-left:-39px; background-color:#f5f5f5; ">
+<h2 style="margin-left:300px;">گزینه ها </h2>
+<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:300px;">
 ساخت وبسایت 
 </a>
 <br>
 <br>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:300px;">
 مطالب سایت 
 </a>
 <br>
 <br>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:300px;">
 وضعیت سیستم
 </a>
 
@@ -103,20 +105,20 @@ blogoxd
 </div>
 
 
-<div style="margin-left:19px; margin-top:-220px; margin-left:30px;">
+<div style="margin-left:79px; margin-top:-220px; margin-left:30px; ">
 <br>
-<h2>نمونه کار ها</h2>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;text-align: left;">
+<h2 style="margin-left:79px;">نمونه کار ها</h2>
+<a href="#" style="color:#000; text-align: right; text-decoration:none;text-align: left; margin-left:79px;">
 نمونه کار 1
 </a>
 <br>
 <br>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:79px;">
 نمونه کار 2
 </a>
 <br>
 <br>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:79px;">
 نمونه کار 3 
 </a>
 
@@ -124,5 +126,4 @@ blogoxd
 
 </div>
 
-</center>
 
