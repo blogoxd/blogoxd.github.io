@@ -69,7 +69,7 @@
 </center>
 </div>
 
-</center>
+
 
 <div style="color:#000; margin-left:50px; color:#000;text-align: left;">
 <a href="https://blogoxd.github.io" style="color:#000; text-decoration:none; margin-left:50px; font-size:20px;">
