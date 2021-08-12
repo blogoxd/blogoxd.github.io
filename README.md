@@ -7,7 +7,7 @@
 <div style="position: fixed; margin-top:-120px; margin-left:-12px; background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; height:100px; ">
 <h3 style="margin-left:300px; ">_______________________________________________________________________________________</h3>
 </div>
-<div style="position: fixed; margin-top:-121px; margin-left:-15px; background-color:#fff;">
+<div style="position: fixed; margin-top:-121px; margin-left:-18px; background-color:#fff;">
 
 <img width="100" src="https://user-images.githubusercontent.com/88801293/129099967-d297cdb9-3084-408d-a7f2-2b017d135712.jpg">
 
@@ -72,7 +72,7 @@
 
 
 <div style="color:#000; margin-left:50px; color:#000;text-align: left;">
-<a href="https://blogoxd.github.io" style="color:#000; text-decoration:none; margin-left:50px; font-size:20px;">
+<a href="https://blogoxd.github.io" style="color:#000; text-decoration:none; margin-left:50px; font-size:27px;">
 
 blogoxd
 
