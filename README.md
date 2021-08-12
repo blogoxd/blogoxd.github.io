@@ -71,10 +71,10 @@
 </center>
 </div>
 
+</center>
 
-
-<div style="color:#000; margin-left:50px; color:#000;">
-<a href="https://blogoxd.github.io" style="color:#000; text-decoration:none;">
+<div style="color:#000; margin-left:50px; color:#000;text-align: left;">
+<a href="https://blogoxd.github.io" style="color:#000; text-decoration:none; margin-left:50px;">
 <h1>
 blogoxd
 </h1>
@@ -102,10 +102,10 @@ blogoxd
 </div>
 
 
-<div style="margin-left:5px; margin-top:-220px;">
+<div style="margin-left:50px; margin-top:-220px; text-align: left;">
 <br>
 <h2>نمونه کار ها</h2>
-<a href="#" style="color:#000; text-align: right; text-decoration:none;">
+<a href="#" style="color:#000; text-align: right; text-decoration:none;text-align: left;">
 نمونه کار 1
 </a>
 <br>
@@ -122,5 +122,6 @@ blogoxd
 
 
 </div>
+
 
 
