@@ -20,7 +20,7 @@
 <br>
 <br>
 </div>
-<div style="text-align: right;">
+
 
 
 <div style="-webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
@@ -71,7 +71,7 @@
 
 <br>
 <br>
-</div>
+
 
 
 <div style="color:#000; margin-left:50px; color:#000;text-align: left;">
