@@ -96,7 +96,7 @@ blogoxd
 </a>
 <br>
 <br>
-<a href="#" style="color:#000; text-align: right; text-decoration:none; margin-left:300px;">
+<a href="status.blogoxd.html" style="color:#000; text-align: right; text-decoration:none; margin-left:300px;">
 وضعیت سیستم
 </a>
 
