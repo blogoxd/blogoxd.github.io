@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=0.1, minimum-scale=0.97">
-    <title>test</title>
+    
 </head>
 <body style="background-color:#efefef;"> 
 
