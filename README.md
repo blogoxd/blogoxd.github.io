@@ -9,7 +9,7 @@
 </head>
 <body style="background-color:#efefef;"> 
 
-<nav style="display:flex; align-items: center; justify-content: space-between; background:#000 ; color:#fff; padding: 20px 20px; margin-left: -34px;  width: 391px; margin-top:-120px ;">
+<nav style="display:flex; align-items: center; justify-content: space-between; background:#000 ; color:#fff; padding: 20px 20px; margin-left: -34px;  width: 400px; margin-top:-120px ; position: fixed;">
 <!---->
 <div> 
 
